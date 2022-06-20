@@ -1,5 +1,9 @@
 # npm-workflow
 
+### Installation
+If you know Node you know how to install.
+
+
 ### Dev-mode
 
 ```
