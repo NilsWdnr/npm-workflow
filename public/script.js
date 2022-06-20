@@ -1,0 +1,2 @@
+console.log("hallo welt"),console.log("hallo welt");
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIjAiXSwibmFtZXMiOlsiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6IkFBQUFBLFFBQVFDLElBQUksY0FDWkQsUUFBUUMsSUFBSSJ9

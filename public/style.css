@@ -1,0 +1,13 @@
+h1 {
+  color: black;
+  font-weight: 500;
+}
+h1 span {
+  color: red;
+}
+
+body {
+  background-color: beige;
+}
+
+/*# sourceMappingURL=style.css.map */

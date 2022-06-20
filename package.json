@@ -1,0 +1,19 @@
+{
+  "name": "npm-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch private/style.scss:public/style.css",
+    "build": "node private/build.js && sass private/style.scss:public/style.css "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "minify-stream": "^2.1.0",
+    "npm": "^8.12.1"
+  }
+}
