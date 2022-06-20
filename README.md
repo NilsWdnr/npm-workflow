@@ -1,2 +1,16 @@
 # npm-workflow
-Sass compiler and JavaScript minifier
+
+### Dev-mode
+
+```
+npm run dev
+``` 
+Watches /private/style.scss and compiles it into /public/style.css
+
+
+### Build
+
+```
+npm run build
+``` 
+Compiles /private/style.scss to /public/style.css and minifies /private/script.js into /public/script.js
